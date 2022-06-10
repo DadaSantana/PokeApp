@@ -1,18 +1,37 @@
 {
   "files": {
     "main.css": "/pokeapp/static/css/main.7bf9eeb3.css",
-    "main.js": "/pokeapp/static/js/main.e2b72ca2.js",
+    "main.js": "/pokeapp/static/js/main.bf239414.js",
     "static/js/787.7e0b23c5.chunk.js": "/pokeapp/static/js/787.7e0b23c5.chunk.js",
+    "static/media/background-screen.jpg": "/pokeapp/static/media/background-screen.23ae388dfb93f176a80d.jpg",
     "static/media/PokeLoading.gif": "/pokeapp/static/media/PokeLoading.4cc1ead77689b1fbeec6.gif",
-    "static/media/iphone_background.jpg": "/pokeapp/static/media/iphone_background.910e06bc023bab883ece.jpg",
+    "static/media/Settings-icon.png": "/pokeapp/static/media/Settings-icon.1e4396f33138269a010f.png",
+    "static/media/Camera-icon.png": "/pokeapp/static/media/Camera-icon.1c772dd745c0911bbcec.png",
+    "static/media/Stocks-icon.png": "/pokeapp/static/media/Stocks-icon.2c602e4ae16ca84155e6.png",
+    "static/media/iTunes-Store-icon.png": "/pokeapp/static/media/iTunes-Store-icon.01593a761f6d39f921e4.png",
+    "static/media/Phone-icon.png": "/pokeapp/static/media/Phone-icon.acc1b96a1362be90fcb6.png",
+    "static/media/Photos-icon.png": "/pokeapp/static/media/Photos-icon.1d541d4b1cb9b2695db4.png",
+    "static/media/Weather-icon.png": "/pokeapp/static/media/Weather-icon.a192070867fd4febf046.png",
+    "static/media/Calendar-icon.png": "/pokeapp/static/media/Calendar-icon.d7de838a84d92b2b4b5d.png",
+    "static/media/Game-Center-icon.png": "/pokeapp/static/media/Game-Center-icon.d0256b9b65cdec91fd90.png",
+    "static/media/Calculator-icon.png": "/pokeapp/static/media/Calculator-icon.8dc7e3ebde8bc7abc3a1.png",
+    "static/media/Messages-icon.png": "/pokeapp/static/media/Messages-icon.8d28dc1dcdd4178bf1ea.png",
+    "static/media/Safari-icon.png": "/pokeapp/static/media/Safari-icon.2f2b6339e121fde2a839.png",
+    "static/media/App-Store-icon.png": "/pokeapp/static/media/App-Store-icon.7a11eadca7a5fbf37ffa.png",
+    "static/media/iBook-icon.png": "/pokeapp/static/media/iBook-icon.14622cb2a6e40c34a92a.png",
+    "static/media/Health-icon.png": "/pokeapp/static/media/Health-icon.2318d729470e2c1c47de.png",
+    "static/media/Clock-icon.png": "/pokeapp/static/media/Clock-icon.c25451621fe0e0f2f18e.png",
+    "static/media/Contacts-icon.png": "/pokeapp/static/media/Contacts-icon.9f987ba4b2b0ad021fab.png",
+    "static/media/Reminders-icon.png": "/pokeapp/static/media/Reminders-icon.1c7af7b09c8034f14a40.png",
     "static/media/PokeLogo.png": "/pokeapp/static/media/PokeLogo.4f09788858678fc7e637.png",
+    "static/media/Folder-Music-icon.png": "/pokeapp/static/media/Folder-Music-icon.304cbccc8606ed97c7f3.png",
     "index.html": "/pokeapp/index.html",
     "main.7bf9eeb3.css.map": "/pokeapp/static/css/main.7bf9eeb3.css.map",
-    "main.e2b72ca2.js.map": "/pokeapp/static/js/main.e2b72ca2.js.map",
+    "main.bf239414.js.map": "/pokeapp/static/js/main.bf239414.js.map",
     "787.7e0b23c5.chunk.js.map": "/pokeapp/static/js/787.7e0b23c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bf9eeb3.css",
-    "static/js/main.e2b72ca2.js"
+    "static/js/main.bf239414.js"
   ]
 }
